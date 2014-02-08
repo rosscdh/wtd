@@ -1,7 +1,10 @@
 wtd
 ===
 
-What the Diff
+What the Diff: is a little service that accepts a uri and compares it's content
+with previously recorded versions of that pages content; if there are
+differences then it will return them
+
 
 Get started
 -----------
